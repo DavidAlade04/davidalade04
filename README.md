@@ -59,22 +59,11 @@ I am a 3rd Year Computer Science student at Maynooth University deeply intereste
 ### 📊 GitHub Stats
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=davidalade04&show_icons=true&theme=tokyonight)
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=davidalade04&theme=tokyonight)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidalade04&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidalade04&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalade04&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalade04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=davidalade04&layout=compact&theme=tokyonight)
 
 ---
 
