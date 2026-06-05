@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+David+Alade!+👋;3rd+Year+CS+Student+@+Maynooth;Systems+%26+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+David+Alade!+%F0%9F%91%8B;3rd+Year+CS+Student+@+Maynooth;Systems+&+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -58,15 +58,16 @@ I am a 3rd Year Computer Science student at Maynooth University deeply intereste
 
 ### 📊 GitHub Stats
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=davidalade04&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidalade04&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=davidalade04&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=davidalade04&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalade04&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="60%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidalade04&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="60%" />
 </div>
 
 ---
