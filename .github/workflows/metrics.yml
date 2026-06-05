@@ -1,0 +1,42 @@
+name: Generate 3D Contribution Calendar
+
+on:
+  # Runs automatically every 12 hours
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+  
+  # Runs whenever you push a change to the main repository
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      
+    steps:
+      - name: Generate 3D Isometric Calendar
+        uses: lowlighter/metrics@latest
+        with:
+          # This token is required to fetch your contribution data
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Your exact GitHub username
+          user: davidalade04
+          
+          # The name of the file this action will create in your repo
+          filename: github-metrics-isocalendar.svg
+          
+          # Disables the default base metrics to ONLY show the 3D calendar
+          template: classic
+          base: ""
+          
+          # Enables the 3D calendar plugin
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
