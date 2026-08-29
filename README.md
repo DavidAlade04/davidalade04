@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+David+Alade!+%F0%9F%91%8B;3rd+Year+CS+Student+@+Maynooth;Systems+&+AI+Enthusiast;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi,+I'm+David+Alade!+%F0%9F%91%8B;3rd+Year+CS+Student+@+Maynooth;Systems+&+AI+Enthusiast;Algorithmic+Problem+Solver" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -21,10 +21,10 @@
 
 I am a 3rd Year Computer Science student at Maynooth University deeply interested in **real-world systems** and **Artificial Intelligence**. I enjoy solving complex algorithmic challenges, building scalable software, and bridging the gap between AI models and functional frontends.
 
-- 🔭 **Current Focus:** Deep diving into systems programming, AI application development, and WebRTC infrastructure.
-- 🎓 **University Life:** Serving as Deputy Chairperson for the Science & Engineering Faculty and volunteer tutoring at the CS Centre.
+- 🔭 **Current Focus:** Implementing a neural network from scratch (pure NumPy, no ML frameworks) and deepening AI application development skills.
+- 🎓 **University Life:** Serving as Science & Engineering Faculty Convenor and volunteer tutoring in Python & Java.
 - 🏆 **Recent Wins:** 2nd Place at the Accenture x Women in STEM Hackathon & Platinum MUSE Award recipient.
-- 💬 **Ask me about:** Java, Prompt Engineering (Llama 3.1), or integrating AI into Streamlit apps.
+- 💬 **Ask me about:** Java, Prompt Engineering (Llama 3.1), integrating AI into Streamlit apps, or neural networks from scratch.
 
 ---
 
@@ -36,14 +36,14 @@ I am a 3rd Year Computer Science student at Maynooth University deeply intereste
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  
+
   <br>
 
   <!-- Frameworks & AI -->
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  
+
   <br>
 
   <!-- Cloud, Databases & DevOps -->
@@ -52,6 +52,10 @@ I am a 3rd Year Computer Science student at Maynooth University deeply intereste
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</div>
+
+<div align="center" style="margin-top:8px;">
+  <sub>⚠️ React/PostgreSQL/Docker flagged for confirmation — see note above.</sub>
 </div>
 
 ---
@@ -70,8 +74,8 @@ I am a 3rd Year Computer Science student at Maynooth University deeply intereste
 
 | Project Name | Description | Tech Stack |
 |:---|:---|:---|
-| **Learning Buddy (AI Assistant)** | AI-powered study tool developed during a **Microsoft Mentorship**. Generates quizzes, evaluates responses, and provides adaptive feedback from lecture materials. | Python, Streamlit, Llama 3.1, Azure OpenAI |
-| **MidiSessionz** | Startup project building a real-time collaborative MIDI web application. Features WebMIDI/WebAudio integration and WebRTC client communication. | React, TypeScript, WebRTC, Rust (Backend) |
+| **Learning Buddy (AI Assistant)** | AI-powered study tool built during a **Microsoft Mentorship**. Generates customizable quizzes, adaptive feedback, and mistake tracking from lecture materials. Presented at Microsoft's HQ. | Python, Streamlit, Llama 3.1, Azure OpenAI |
+| **3D Renderer** | Interactive 3D modeller implemented in Python, following *500 Lines or Less* — scene graphs, matrix transformations, a trackball camera system, and AABB collision detection. | Python |
 | **Accenture Hackathon Runner-up** | Award-winning application prototype developed collaboratively during the Accenture x Women in STEM Hackathon. | *Full Stack* |
 
 ---
